@@ -345,6 +345,7 @@ body .full-width {
 .acess:hover {
   background: var(--white-color);
   transform: scale(1.1);
+  color: var(--secondary-color);
 }
 /* Media queries
 ----------------------------------------------*/
